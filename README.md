@@ -35,3 +35,6 @@ The project is organized as follows:
 ### Region-wise Profit Analysis:
 1. Sub-Saharan Africa has generated highest profit in offline sales (approx. $7.8 M) and is the second-highest in online sales.
 2. Europe has the highest profit in online sales (approx. $5.5 M) and the second-highest in offline sales.
+
+#
+ Thanks for using "Amazon Sales Analysis". If you have any questions or feedback, please feel free to contact me.
